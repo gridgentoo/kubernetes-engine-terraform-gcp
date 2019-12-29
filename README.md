@@ -1,5 +1,8 @@
 # Terraform Kubernetes Engine Module
 
+kubernetes-engine-terraform-gcp   
+https://docs.google.com/spreadsheets/d/1F5fqGbsQDrQjZVB2E1dk-zr5OUj-Mb6P55F_kL02pZE/edit?folder=0AGzfMaGH7wbJUk9PVA#gid=0  
+
 This module handles opinionated Google Cloud Platform Kubernetes Engine cluster creation and configuration with Node Pools, IP MASQ, Network Policy, etc.
 The resources/services/activations/deletions that this module will create/trigger are:
 - Create a GKE cluster with the provided addons
